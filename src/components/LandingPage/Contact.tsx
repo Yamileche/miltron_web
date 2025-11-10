@@ -3,7 +3,7 @@ function Contact() {
     <div>
       <h1>Contact</h1>
       Let’s connect and build something smart together.
-      📧 hello@miltron.tech
+      📧 yamil.velazquez@live.com
       🐙 <a href="https://github.com/Yamileche" target="_blank" rel="noopener noreferrer">
           Github
         </a>
